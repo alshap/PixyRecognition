@@ -16,4 +16,6 @@ If camera is in good condition then in PixyMon screen appears image from camera.
 
 In action menu you can set signatures(colors or objects). Explore how it works!
 
+## Connection
 
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/con2.jpg)
