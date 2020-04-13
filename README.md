@@ -9,6 +9,9 @@ Check doc_examples
 In PixyMonREADME.md you can find PixyMon functionality and connection.
 
 # Objects recognition
+
+## Connection
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/con1.jpg)
 ## Single color recognition
 
 Single color recognition going on using "Set signature" option.
@@ -30,3 +33,14 @@ Camera view become black. Do not worry, it is ok.
 
 
 ## Multi color recognition
+
+For Multi color recognition steps are same. Difference in step 3.
+If object has some colors(up to 7) for each color we should set CC signature.
+
+For this project was taken item specially with a lot of different colors.
+On screen is step by step colors signature and finally result. On step 3 use different CC signatures for each color. Other steps reproduce as in **Single color recognition**.
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/CC1.jpg)
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/CC2.jpg)
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/CC3.jpg)
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/multi1.jpg)
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/multi2.jpg)
