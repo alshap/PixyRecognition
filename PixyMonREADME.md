@@ -14,6 +14,11 @@ If camera is in good condition then in PixyMon screen appears image from camera.
 
 ![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/con2.jpg)
 
+## PixyMon features
+
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/guide1.jpg)
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/guide2.jpg)
+
 ## Responses and errors
 
 **error: No Pixy devices have been detected.**__
@@ -24,6 +29,9 @@ This response means that on switching program modes no error happened.
 
 **response: -1 (0xffffffff)**__
 Occurs when in console input was written wrong index. For example index 8 for clear signature(because we have only 7 signatures)
+
+**response: -957137129 (0xc6f33f17)**__
+Occurs on getUID() command entered
 
 **Signature set!**__
 This respons occurs after signature setting up. Means that signature set up was successfull.
@@ -38,7 +46,5 @@ Can occur after Pixy has stopped working error. To solve replug the Pixy.
 **error: Unable to open USB device.**__
 Problem can be related with 2 previos. Try to replug Pixy.
 
-## PixyMon features
-
-![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/guide1.jpg)
-![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/guide2.jpg)
+**error: procedure unsupported.**__
+Occurs when incorrect command was entered as input in command line.
