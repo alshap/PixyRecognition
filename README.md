@@ -37,6 +37,8 @@ Camera view become black. Do not worry, it is ok.
 For Multi color recognition steps are same. Difference in step 3.
 If object has some colors(up to 7) for each color we should set CC signature.
 
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/item.jpg)
+
 For this project was taken item specially with a lot of different colors.
 On screen is step by step colors signature and finally result. On step 3 use different CC signatures for each color. Other steps reproduce as in **Single color recognition**.
 ![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/CC1.jpg)
