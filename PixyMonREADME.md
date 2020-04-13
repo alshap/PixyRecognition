@@ -19,3 +19,8 @@ In action menu you can set signatures(colors or objects). Explore how it works!
 ## Connection
 
 ![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/con2.jpg)
+
+## PixyMon features
+
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/guide1.jpg)
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/guide2.jpg)
