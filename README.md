@@ -24,6 +24,9 @@ We will recognize red heart on the cup
 4. Now download hello_world code on the Arduino 
 5. Run program and open port monitor
 6. In PixyMon start default program(Action -> Default Program)
+Camera view become black. Do not worry, it is ok.
+7. All is done. In port monitor should be written that object is found.
+![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/images/program.jpg)
 
 
 ## Multi color recognition
