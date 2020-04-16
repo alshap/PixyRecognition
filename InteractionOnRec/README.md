@@ -27,7 +27,9 @@ We are using 4 objects with different colors. Blue, orange, yellow and green obj
 ## Results
 
 <details><summary>**No objects**</summary>
+  
 ![Screenshot](https://github.com/alshap/PixyRecognition/blob/master/InteractionOnRec/images/result0.jpg)
+
 </details>
 
 <details><summary>**Orange object**</summary>
